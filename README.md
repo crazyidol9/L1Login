@@ -49,22 +49,3 @@ Generates `pack.properties`
     Line 2 | http://update.domain.name/login.ini
     Line 3 | http://update.domain.name/pc/update.ini
 	Line 4 | http://ui.domain.name/index.html
-
-***
-
-##### 한국인을 위한 간략 설명
-
-***
-
-#### 1. Encode 폴더
-
-- Encode 폴더에서 Encode.exe 실행
-- 서버IP 와 포트 지정
-- TW13081901 선택
-- 버튼 클릭
-- 생성된 Login.ini 파일을 복사하여 Login 폴더에 붙여넣기
-
-#### 2. Login 폴더
-
-- eat.exe 실행
-- Login.exe 를 리니지 폴더에 붙여넣기
